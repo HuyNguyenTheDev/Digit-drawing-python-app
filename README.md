@@ -48,7 +48,7 @@ python main.py
 
 ## 📸 Giao diện minh họa
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot 2025-05-09 215134.png)
 
 ---
 
