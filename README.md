@@ -54,5 +54,4 @@ python main.py
 
 ## 📚 Tác giả
 
-Dự án học tập Deep Learning cá nhân của Nguyễn Thế Huy  
-🌟 Sinh viên Đại học Bách Khoa Đà Nẵng
+Dự án Deep Learning cá nhân của Huy
